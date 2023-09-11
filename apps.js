@@ -97,7 +97,7 @@ const pintarFooter = () => {
     footer.innerHTML = ''
     if(Object.keys(carrito).length ===0) {
         footer.innerHTML = 
-        return;
+        return
     }
     const nCantidad = Object.values(carrito).reduce(acc,(cantidad)=> acc + cantidad,0)
     const nPrecio = Object.values(carrito).reduce((acc,{cantidad, precio}) => acc + cantidad * precio,0)

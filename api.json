@@ -3,25 +3,25 @@
     {
       "precio": 500,
       "id": 1,
-      "title": "Café",
+      "title": "nokia 1100",
       "thumbnailUrl": "https://picsum.photos/id/0/600"
     },
     {
       "precio": 300,
       "id": 2,
-      "title": "Pizza",
+      "title": "motorola c115",
       "thumbnailUrl": "https://picsum.photos/id/10/600"
     },
     {
       "precio": 100,
       "id": 3,
-      "title": "Agua",
+      "title": "nokia 6131",
       "thumbnailUrl": "https://picsum.photos/id/20/600"
     },
     {
       "precio": 50,
       "id": 4,
-      "title": "Sandía",
+      "title": "cargador pin v8",
       "thumbnailUrl": "https://picsum.photos/id/30/600"
     }
 ]
